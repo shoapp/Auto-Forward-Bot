@@ -7,7 +7,7 @@
         "auto",
         "forward"
     ],
-    "success_url": "https://telegram.dog/Hollywood_0980",
+    "success_url": "https://github.com/shoapp",
     "repository": "https://github.com/shoapp/Auto-Forward-Bot",
     "env": {        
         "API_HASH": {
