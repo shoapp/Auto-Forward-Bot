@@ -12,8 +12,8 @@ from translation import Translation
 url_button=InlineKeyboardMarkup(
         [
               [
-                  InlineKeyboardButton("⚙ UPDATE CHANNE", url='https://t.me/DFF_UPDATES'), 
-                  InlineKeyboardButton("⭕️ SOURCE", url='https://github.com/0AIB/Auto-Forward-Bot')
+                  InlineKeyboardButton("⚙ UPDATE CHANNE", url=''), 
+                  InlineKeyboardButton("⭕️ SOURCE", url='')
               ]
         ]
 ) 
